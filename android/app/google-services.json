@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "975247949424",
+    "firebase_url": "https://washapp-49a10.firebaseio.com",
+    "project_id": "washapp-49a10",
+    "storage_bucket": "washapp-49a10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975247949424:android:03a6fa74d7ca67716c7eb5",
+        "android_client_info": {
+          "package_name": "com.mobile.wash_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975247949424-fa0ohc1eq4nsgro4j7csg956hljbbrh2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mobile.wash_app",
+            "certificate_hash": "544c332c062b8d936350bc5ec9a05aad388ad4fc"
+          }
+        },
+        {
+          "client_id": "975247949424-innk47l39j13qsl5co2gqi4hfkfq0r4v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcnr_O1i3sWyroWdq3bxUYns5pFfIz_U4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "975247949424-innk47l39j13qsl5co2gqi4hfkfq0r4v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
